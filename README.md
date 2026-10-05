@@ -2,7 +2,7 @@
 
 Welcome to my AWS and DevOps hands-on learning portfolio.
 
-This repository contains practical projects covering AWS infrastructure, Linux administration, Docker, Python automation, IAM, AWS Systems Manager, Application Load Balancer, monitoring, troubleshooting, and self-healing automation.
+This repository contains practical projects covering AWS infrastructure, Docker, Python automation, IAM, AWS Systems Manager, Application Load Balancer, monitoring, troubleshooting, and self-healing automation.
 
 ## Projects
 
