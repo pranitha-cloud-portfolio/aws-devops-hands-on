@@ -68,7 +68,7 @@ Installed and configured the Apache HTTP service on the EC2 host.
 Created:
 
 - `agentai.py`
-- `Dockerfileai`
+- `Dockerfile`
 
 The monitoring agent runs inside a Docker container and interacts with the Docker engine to monitor the application containers.
 
@@ -116,7 +116,7 @@ The monitoring agent was then used to detect and recover from the service failur
 
 Build the AI-agent image:
 
-    docker build -t aiimage -f Dockerfileai .
+    docker build -t aiimage -f Dockerfile .
 
 Run the AI-agent container:
 
