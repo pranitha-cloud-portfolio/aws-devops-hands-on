@@ -17,17 +17,17 @@ Create and monitor multiple application containers on a single EC2 instance and 
               +----------------+----------------+
               |                |                |
               v                v                v
-        WebApp1 Container  WebApp2 Container  AI Agent Container
+        WebApp1 Container  WebApp2 Container  Monitoring Agent
               |                |                |
             Nginx            Nginx             Python
                                                  |
                                            Docker Socket
                                                  |
                                                  v
-                                        Docker Engine
+                                           Docker Engine
                                                  |
                                                  v
-                                          Apache Service
+                                           Apache Service
 
 ## AWS Services
 
