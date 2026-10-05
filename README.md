@@ -74,23 +74,6 @@ An AWS Application Load Balancer monitoring and self-healing project that monito
 
 ---
 
-### 05. AWS EBS & Linux Storage Management
-
-Hands-on AWS EBS and Linux storage administration including volume creation, attachment, filesystem formatting, mounting, persistent mount configuration using `/etc/fstab`, reboot validation, and snapshot-based volume recovery.
-
-**Technologies:**
-- AWS EC2
-- Amazon EBS
-- EBS Snapshots
-- Linux
-- XFS / ext4
-- Mount / umount
-- `/etc/fstab`
-
-[View Project →](./05-ebs-linux-storage/)
-
----
-
 ## Skills Demonstrated
 
 ### Cloud
@@ -112,14 +95,6 @@ Hands-on AWS EBS and Linux storage administration including volume creation, att
 - Monitoring
 - Self-healing automation
 
-### Linux
-- Service management
-- Filesystem management
-- Mounting and unmounting
-- `/etc/fstab`
-- Apache
-- Nginx
-
 ## Learning Focus
 
 My current focus is building practical expertise in:
@@ -127,7 +102,6 @@ My current focus is building practical expertise in:
 - AWS Cloud Infrastructure
 - DevOps
 - Docker & Containers
-- Linux Administration
 - Python Automation
 - CI/CD
 - Infrastructure as Code
